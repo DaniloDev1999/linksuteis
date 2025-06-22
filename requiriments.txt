@@ -1,6 +1,0 @@
-streamlit
-sqlalchemy
-pyotp
-passlib[bcrypt]
-qrcode
-pillow
